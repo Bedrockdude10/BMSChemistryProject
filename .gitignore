@@ -1,0 +1,15 @@
+# Ignore environment
+env/*
+.env/*
+
+# Ignore pychache
+__pycache__/*
+
+# Ignore input data (could be sensitive/too large to track with versions control)
+data/*
+
+# Ignore any csv file (analysis_results file in particular)
+*.csv
+
+# Ignore compiled outputs
+*.pyc
