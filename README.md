@@ -97,12 +97,12 @@ python main_script.py input_file.csv output_directory/
 - Support for additional input formats (e.g., SDF, TXT).
 - Integration with cheminformatics APIs.
 - Web-based interface for molecule submission and analysis.
-- Incorporating Additional Molecular Descriptors:
+- **Incorporating Additional Molecular Descriptors**:
 
-- Topological Polar Surface Area (TPSA): Reflects the molecule's potential to interact with biological membranes, influencing bioavailability.
- - Hydrogen Bond Donors and Acceptors: Important for drug-receptor interactions.
-- Lipinski's Rule of Five Compliance: A quick assessment of a molecule's drug-likeness based on molecular properties.
- - Ring Count or Aromaticity: Relevant for identifying structural motifs in drug design or chemical analysis.
+- 'Topological Polar Surface Area (TPSA)': Reflects the molecule's potential to interact with biological membranes, influencing bioavailability.
+ - 'Hydrogen Bond Donors and Acceptors': Important for drug-receptor interactions.
+- 'Lipinski's Rule of Five Compliance': A quick assessment of a molecule's drug-likeness based on molecular properties.
+ - 'Ring Count or Aromaticity': Relevant for identifying structural motifs in drug design or chemical analysis.
 
 ---
 
