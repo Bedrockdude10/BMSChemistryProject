@@ -39,10 +39,6 @@ pip install rdkit pandas
 
 ### **Setup**
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/molecular-analysis-tool.git
-   cd molecular-analysis-tool
-   ```
 
 2. Make the Shell script executable:
    ```bash
@@ -90,9 +86,6 @@ python main_script.py input_file.csv output_directory/
 2. **Molecular Images:**
    - Individual PNG files for each compound.
 
-3. **Collage (Optional):**
-   - A grid of molecular images.
-
 ---
 
 ## **Technical Details**
@@ -101,13 +94,6 @@ python main_script.py input_file.csv output_directory/
 - `analyze.py`: Contains molecular property analysis logic.
 - `save_files.py`: Handles saving results (CSV and images).
 - `run_analysis.sh`: Automates the workflow.
-
-### **Advanced Features**
-- **Lipinski’s Rule of Five:** Assesses drug-likeness based on molecular properties.
-- **Error Handling:** Robust validation for input files and molecule processing.
-- **Parallel Processing:** Future support for batch processing large datasets.
-
----
 
 ## **Future Enhancements**
 - Support for additional input formats (e.g., SDF, TXT).
@@ -125,5 +111,5 @@ This project leverages the following libraries:
 
 ## **Contact**
 For questions or suggestions, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** dannyrollo4@gmail.com
+- **GitHub:** [Bedrockdude10](https://github.com/Bedrockdude10)
