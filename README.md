@@ -12,8 +12,6 @@ This project is a Python and Shell-based molecular analysis tool designed to pro
   - Molecular weight
   - LogP (octanol-water partition coefficient)
   - Number of rotatable bonds
-  - Topological polar surface area (TPSA)
-  - Lipinski’s Rule of Five compliance
 - **Molecular Visualizations**:
   - Individual molecule images (PNG format)
   - Batch molecular image collages
